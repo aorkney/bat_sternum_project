@@ -1,5 +1,5 @@
 # bat_sternum_project
-[![DOI](https://zenodo.org/badge/1305842103.svg)](https://doi.org/10.5281/zenodo.21443692)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21443898.svg)](https://doi.org/10.5281/zenodo.21443898)
 
 A supporting repository for a manuscript by Orkney and colleagues investigating the evolution of bat sternum shape features.
 The manuscript is entitled 'Declining rates of evolution and limited convergence in bat sternum shape can be explained by a ratchet of specialisation'
