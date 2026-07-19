@@ -1,4 +1,6 @@
 # bat_sternum_project
+[![DOI](https://zenodo.org/badge/1305842103.svg)](https://doi.org/10.5281/zenodo.21443692)
+
 A supporting repository for a manuscript by Orkney and colleagues investigating the evolution of bat sternum shape features.
 The manuscript is entitled 'Declining rates of evolution and limited convergence in bat sternum shape can be explained by a ratchet of specialisation'
 
@@ -21,16 +23,16 @@ ultimate settlement within adaptive zones structured by flight-style ecology.
 
 # Data
 # sternum.surf.ply 
->> A sample mesh topology used to visualise sternum shape and variation
+  A sample mesh topology used to visualise sternum shape and variation
 # Bat_CT_process_list_Andrew_only.csv
->> A metadata spreadsheet including museum object identifiers for all specimens studied
+  A metadata spreadsheet including museum object identifiers for all specimens studied
 # Bat_eco_metadata.csv
->> Supporting ecological metadata, represented as binary presence/absence data across a wide
+  Supporting ecological metadata, represented as binary presence/absence data across a wide
 sample of bats. Originally aggregated by Dr. Orkney for another project which containsa full file of citations: https://doi.org/10.5281/zenodo.13742209
 # '.png'
->> Various image files used to decorate plots
+  Various image files used to decorate plots
 # sternum_array_sep_27_2024.RData
->> Landmark data describing bat sternum shape, collected by Jeanne Elizabeth Augustin and Beyonca Akers
+  Landmark data describing bat sternum shape, collected by Jeanne Elizabeth Augustin and Beyonca Akers
 
 # Scripts
 # Script_Figure_1.R
