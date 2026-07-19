@@ -22,10 +22,12 @@ ing adaptation constitutes a ratchet of specialisation, explaining bursty rate v
 ultimate settlement within adaptive zones structured by flight-style ecology.
 
 # Data
+# Data_source_document.csv
+  Sources of all original uCT scan data
 # sternum.surf.ply 
   A sample mesh topology used to visualise sternum shape and variation
 # Bat_CT_process_list_Andrew_only.csv
-  A metadata spreadsheet including museum object identifiers for all specimens studied
+  A metadata spreadsheet
 # Bat_eco_metadata.csv
   Supporting ecological metadata, represented as binary presence/absence data across a wide
 sample of bats. Originally aggregated by Dr. Orkney for another project which containsa full file of citations: https://doi.org/10.5281/zenodo.13742209
